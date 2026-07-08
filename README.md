@@ -1,4 +1,4 @@
-# TokyoMotion Downloader (Browser Extension)
+# TokyoMotion Video Downloader (Browser Extension)
 
 > Download supported TokyoMotion videos as MP4 files from the browser with direct quality selection.
 
@@ -12,7 +12,7 @@ TokyoMotion Downloader is a browser extension for users who want a cleaner way t
 
 ## Links
 
-- :rocket: Get it here: [TokyoMotion Downloader](https://serp.ly/tokyomotion-downloader)
+- :rocket: Get it here: [TokyoMotion Downloader](https://serp.ly/tokyomotion-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/tokyomotion-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/tokyomotion-downloader/issues)
@@ -123,7 +123,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/tokyomotion-downloader](https://serp.ly/tokyomotion-downloader)
+Start here: [https://serp.ly/tokyomotion-downloader?via=github](https://serp.ly/tokyomotion-downloader?via=github)
 
 ## Installation Instructions
 
